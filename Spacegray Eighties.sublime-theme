@@ -512,7 +512,8 @@
     // Sidebar entry
     {
         "class": "sidebar_label",
-        "color": [116, 115, 105] // 03
+        "color": [116, 115, 105], // 03
+        "font.size": 14.0
     },
     {
         "class": "sidebar_label",
